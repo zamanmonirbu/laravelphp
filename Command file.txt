@@ -1,0 +1,5 @@
+composer create-project laravel/laravel youtube
+php artisan serve
+php artisan migration
+php artisan make:migration create_newtable_table
+
